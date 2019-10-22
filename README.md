@@ -17,3 +17,4 @@
 #### 20.10.2019
 
 * [Services](https://hryhorieva.github.io/Services/)
+* [CSS Dinner Shopping List](https://hryhorieva.github.io/css-dinner-shopping-list/)
