@@ -1,3 +1,6 @@
+#### 27.10.2019
+* [Willow Crest Article](https://hryhorieva.github.io/Willow-Crest-Article/)
+
 #### 25.10.2019
 * [Coffee Pricing Page](https://hryhorieva.github.io/coffee-pricing/index.html)
 
