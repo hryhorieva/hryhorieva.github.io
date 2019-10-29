@@ -1,18 +1,19 @@
-#### 27.10.2019
+#### 27.10.2019 L9
 * [Willow Crest Article](https://hryhorieva.github.io/Willow-Crest-Article/)
+* [Like Tears in Rain Article](https://hryhorieva.github.io/Like-Tears-in-Rain-Article/)
 
-#### 25.10.2019
+#### 25.10.2019 L8
 * [Coffee Pricing Page](https://hryhorieva.github.io/coffee-pricing/index.html)
 
-#### 23.10.2019
+#### 23.10.2019 L7
 * [Newsletter](https://hryhorieva.github.io/Newsletter/)
 
-#### 20.10.2019
+#### 20.10.2019 L6
 
 * [Services](https://hryhorieva.github.io/Services/)
 * [CSS Dinner Shopping List](https://hryhorieva.github.io/css-dinner-shopping-list/)
 
-#### 18.10.2019
+#### 18.10.2019 
 
 * [About me](https://hryhorieva.github.io/l-five-homework/)
 
